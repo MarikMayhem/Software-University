@@ -1,8 +1,11 @@
-<h1 align="center">My way into Software University!</h1>
+<h1 align="center">My way into Software University! 2017</h1> 
 
 <p align="center">
-<img src="http://www.nakov.com/wp-content/uploads/2014/01/Software-University-Logo-blue-horizontal.png">
+<img src="https://i.imgsafe.org/2040908553.png">
 </p>
 
-
+| Courses     | 
+| ---      | 
+|  Programming Fundamentals | 
+|  Software Technologies   | 
 
