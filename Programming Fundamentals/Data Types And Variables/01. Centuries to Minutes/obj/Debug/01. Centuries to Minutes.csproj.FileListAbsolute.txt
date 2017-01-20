@@ -1,0 +1,6 @@
+C:\Users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\bin\Debug\ConvertCenturies.exe.config
+C:\Users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\bin\Debug\ConvertCenturies.exe
+C:\Users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\bin\Debug\ConvertCenturies.pdb
+C:\Users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\obj\Debug\01. Centuries to Minutes.csprojResolveAssemblyReference.cache
+C:\Users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\obj\Debug\ConvertCenturies.exe
+C:\Users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\obj\Debug\ConvertCenturies.pdb

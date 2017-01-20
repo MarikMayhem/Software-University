@@ -1,0 +1,6 @@
+c:\users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\bin\Debug\ConvertCenturies.exe.config
+c:\users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\bin\Debug\ConvertCenturies.exe
+c:\users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\bin\Debug\ConvertCenturies.pdb
+c:\users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\obj\Debug\ConvertCenturies.csprojResolveAssemblyReference.cache
+c:\users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\obj\Debug\ConvertCenturies.exe
+c:\users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\ConvertCenturies\obj\Debug\ConvertCenturies.pdb
