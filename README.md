@@ -9,3 +9,5 @@
 |  Programming Fundamentals | 
 |  Software Technologies   | 
 
+## ProgramingFundamentals
+1. [Data Types And Variables](https://github.com/MarikMayhem/Software-University/tree/master/Programming%20Fundamentals/Data%20Types%20And%20Variables)
