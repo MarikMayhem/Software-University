@@ -1,0 +1,5 @@
+C:\Users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\3. Exact Sum of Real Numbers\bin\Debug\_3.Exact_Sum_of_Real_Numbers.exe.config
+C:\Users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\3. Exact Sum of Real Numbers\bin\Debug\_3.Exact_Sum_of_Real_Numbers.exe
+C:\Users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\3. Exact Sum of Real Numbers\bin\Debug\_3.Exact_Sum_of_Real_Numbers.pdb
+C:\Users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\3. Exact Sum of Real Numbers\obj\Debug\_3.Exact_Sum_of_Real_Numbers.exe
+C:\Users\winso\documents\visual studio 2017\Projects\ProgramingFundamentals\3. Exact Sum of Real Numbers\obj\Debug\_3.Exact_Sum_of_Real_Numbers.pdb
