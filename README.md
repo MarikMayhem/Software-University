@@ -1,7 +1,7 @@
 <h1 align="center">My way into Software University! 2017</h1> 
 
 <p align="center">
-<img src="http://pichoster.net/image/aglKU">
+<img src=https://imgur.com/a/ucWLo>
 </p>
 
 | Courses     | 
