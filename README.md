@@ -4,9 +4,9 @@
 <a href="https://softuni.bg/"><img src="https://i.imgur.com/82K1fEY.png"> </a>
 </p>
 
-| Entry Module     |          |Test |
-| ---      |                  |---|
-|  Programming Basics |       |testAgain|
+| Entry Module     |          
+| ---      |                  
+|  Programming Basics |       
 
 
 ## ProgramingBasics
