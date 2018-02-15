@@ -1,4 +1,4 @@
-<h1 align="center">My way into Software University! 2017</h1> 
+<h1 align="center">My way into Software University! 2017/2018</h1> 
 
 <p align="center">
 <a href="https://softuni.bg/"><img src="https://i.imgur.com/82K1fEY.png"> </a>
@@ -7,7 +7,7 @@
 
   <h1 align="left"> Proffesional Modules </h1>
   
-| Javascript Developer | C# Developer |
+| [Javascript Developer](#javascript-developer) | C# Developer |
 |----------------------|:------------:|
 |Front-End Development |              |
 ||              |
