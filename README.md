@@ -7,17 +7,18 @@
 
   <h1 align="left"> Proffesional Modules </h1>
   
-| [Javascript Developer](#javascript-developer) | C# Developer |
-|----------------------|:------------:|
-|Front-End Development |              |
-||              |
-|                      |              |
+| Javascript Developer                            | C# Developer |
+|----------------------                          |:------------:|
+|[Front End Development](#front-end-development)  |              |
+|                                                |                |
+|                                                |              |
 
 
 ------
 
-## Javascript Developer
+<h1 align="left"> Javascript Developer </h1>
 
+## Front end Development
 
 
 
