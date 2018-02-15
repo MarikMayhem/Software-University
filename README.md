@@ -9,8 +9,8 @@
   
 | Javascript Developer                            | C# Developer |
 |----------------------                          |:------------:|
-|[Front End Development](#front-end-development)  |              |
-|  Web Fundamentals - HTML5                      |                |
+|Front End Development  |              |
+|  [Web Fundamentals - HTML5](#web-fundamentals---HTML5)                   |                |
 |                                                |              |
 
 
@@ -18,9 +18,11 @@
 
 <h1 align="left"> Javascript Developer </h1>
 
-## Front end Development
+Front end Development
 
-<h4 align="left"> Web Fundamentals - HTML5  </h4>
+## Web Fundamentals - HTML5  
+
+
 
 
 
