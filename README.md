@@ -10,7 +10,7 @@
 | Javascript Developer                            | C# Developer |
 |----------------------                          |:------------:|
 |[Front End Development](#front-end-development)  |              |
-|                                                |                |
+|  Web Fundamentals - HTML5                      |                |
 |                                                |              |
 
 
@@ -20,21 +20,12 @@
 
 ## Front end Development
 
+<h4 align="left"> Web Fundamentals - HTML5  </h4>
 
 
 
 
 
 
-
-| Entry Module     |          
-| ---      |                  
-|  Programming Basics |       
-
-
-## ProgramingBasics
-
-## ProgramingFundamentals
-1. [Data Types And Variables](https://github.com/MarikMayhem/Software-University/tree/master/Programming%20Fundamentals/Data%20Types%20And%20Variables)
 
 
