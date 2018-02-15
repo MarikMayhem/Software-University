@@ -18,7 +18,7 @@
 
 <h1 align="left"> Javascript Developer </h1>
 
-Front end Development
+<h2 align="left"> Front end Development </h2>
 
 ## Web Fundamentals - HTML5  
 
