@@ -22,7 +22,7 @@ Front end Development
 
 ## Web Fundamentals - HTML5  
 
-
+2. [HtmlAndCSS Overview - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/2.HtmlAndCSS%20Overview%20-%20Exercise)
 
 
 
