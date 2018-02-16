@@ -11,10 +11,10 @@
 |----------------------                               |:------------:|
 |Front End Development  |                              |
 |  [Web Fundamentals - HTML5](#web-fundamentals---html5)     |                |
-|  [Javascript - Front End](javascript---front-end)      |              |
+|  [Javascript - Front End](#javascript---front-end)      |              |
 |JS-Core            |                |
-|[Javascript - Fundamentals](javascript---fundamentals)     |       |
-|[Javascript - Advanced](javascript---advanced)         |        |
+|[Javascript - Fundamentals](#javascript---fundamentals)     |       |
+|[Javascript - Advanced](#javascript---advanced)         |        |
 ------
 
 <h1 align="left"> Javascript Developer </h1>
