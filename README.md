@@ -1,7 +1,7 @@
 <h1 align="center">My way into Software University! 2017/2018</h1> 
 
 <p align="center">
-<a href="https://softuni.bg/"><img src="https://imgur.com/BvR3u9u"> </a>
+<a href="https://softuni.bg/"><img src="https://i.imgur.com/BvR3u9u.png"> </a>
 </p>
 
 
