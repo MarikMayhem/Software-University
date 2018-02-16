@@ -7,13 +7,14 @@
 
   <h1 align="left"> Proffesional Modules </h1>
   
-| Javascript Developer                            | C# Developer |
-|----------------------                          |:------------:|
-|Front End Development  |              |
-|  [Web Fundamentals - HTML5](#web-fundamentals---html5)                   |                |
-|                                                |              |
-
-
+| Javascript Developer                                | C# Developer |
+|----------------------                               |:------------:|
+|Front End Development  |                              |
+|  [Web Fundamentals - HTML5](#web-fundamentals---html5)     |                |
+|  [Javascript - Front End](javascript---front-end)      |              |
+|JS-Core            |                |
+|[Javascript - Fundamentals](javascript---fundamentals)     |       |
+|[Javascript - Advanced](javascript---advanced)         |        |
 ------
 
 <h1 align="left"> Javascript Developer </h1>
@@ -26,9 +27,12 @@
 2. [HtmlAndCSS Overview - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/2.HtmlAndCSS%20Overview%20-%20Exercise) - [(Assigment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/2.HtmlAndCSS%20Overview%20-%20Exercise/Assigment)
 
 
+## Javascript - Front End
 
+<h2 align="left"> JS - Core </h2>
 
+## Javascript - Fundamentals
 
-
+## Javascript - Advanced
 
 
