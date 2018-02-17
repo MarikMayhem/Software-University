@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #cccccc;
+}
+li{
+    display:inline-block;
+    padding:20px;
+    font-size:24px;
+    height:40px;
+    line-height:40px;
+}
+ul{
+    background-color: #444;
+    padding: 0;
+    margin: 0;
+    list-style:none;
+    text-align:center;
+
+}
+a{
+    text-decoration:none;
+    color:#ffffff;
+}
