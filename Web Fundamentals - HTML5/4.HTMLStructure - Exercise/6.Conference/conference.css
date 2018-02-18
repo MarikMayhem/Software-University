@@ -1,0 +1,7 @@
+.container{
+background-color: #2d3e63;
+}
+nav,ul,li{
+    display:inline-block;
+    color:white;
+}
