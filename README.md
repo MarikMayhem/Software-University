@@ -23,10 +23,11 @@
 
 ## Web Fundamentals - HTML5  
 
-1. [HtmlAndCSS Overview](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/1.HtmlAndCSS%20Overview) - [(Assigment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/1.HtmlAndCSS%20Overview/Asignment)
-2. [HtmlAndCSS Overview - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/2.HtmlAndCSS%20Overview%20-%20Exercise) - [(Assigment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/2.HtmlAndCSS%20Overview%20-%20Exercise/Assigment)
-3. [Html Structure](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/3.HtmlStructure) - [(Assigment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/3.HtmlStructure/Assignment)
-4. [Html Structure - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/4.HTMLStructure%20-%20Exercise) [(Assigment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/4.HTMLStructure%20-%20Exercise/Assignment)
+1. [HtmlAndCSS Overview](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/1.HtmlAndCSS%20Overview) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/1.HtmlAndCSS%20Overview/Asignment)
+2. [HtmlAndCSS Overview - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/2.HtmlAndCSS%20Overview%20-%20Exercise) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/2.HtmlAndCSS%20Overview%20-%20Exercise/Assigment)
+3. [Html Structure](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/3.HtmlStructure) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/3.HtmlStructure/Assignment)
+4. [Html Structure - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/4.HTMLStructure%20-%20Exercise) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/4.HTMLStructure%20-%20Exercise/Assignment)
+5. [Introduction to CSS](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/5.Introduction%20to%20CSS) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/5.Introduction%20to%20CSS/Assignment)
 
 ## Javascript - Front End
 
