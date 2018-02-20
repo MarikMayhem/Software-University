@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("images/dark-wood.jpg");
+    width: 800px;
+    margin: auto;
+}
+
+header {
+    background: url("images/header-page.jpg") no-repeat center;
+    background-size: cover;
+    height: 110px;
+}
+
+header h1 {
+    float: right;
+    margin: 35px 5px;
+
+}
+
+nav {
+
+    background: url("images/header-page.jpg");
+    width: 100%;
+    font-size: 20px;
+
+}
+
+nav ul li > a {
+    text-decoration: none;
+    color: white;
+    margin: 17px;
+}
+
+li {
+    display: inline-block;
+
+}
+
+.courses {
+    background-color:white;
+    text-align:justify;
+}
+.popular-recipes{
+   text-align:right;
+    display: block;
+}
+footer{
+    background-color:grey;
+    text-align:center;
+    color:white;
+    padding:5px;
+    
+}
