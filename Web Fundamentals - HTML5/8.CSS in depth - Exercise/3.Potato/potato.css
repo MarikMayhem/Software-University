@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+}
+
+nav {
+    position: absolute;
+    color:#fff;
+
+}
+
+body > nav > ul {
+
+    margin-left: 80em;
+}
+
+body > nav > ul > li.nav-item.button-cta {
+    border: 2px solid white;
+    padding: 8px;
+    border-radius: 20px;
+}
+
+body > nav > ul > li.nav-item.button-cta:hover {
+    border: 2px rgba(0, 0, 0, 0.2);;
+    padding: 8px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+body > nav > ul > li > a {
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
+body > nav > p {
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 25px 0 0 25px;
+    font-family: 'Lato', sans-serif;
+}
+
+body > nav > ul > li {
+    display: inline-block;
+
+}
+
+body > nav > ul > li > a {
+    text-decoration: none;
+
+}
+
+header {
+    background: radial-gradient(ellipse at center,
+    rgba(192, 169, 145, 1) 0%,
+    rgba(192, 169, 145, 1) 59%,
+    rgba(168, 143, 121, 1) 100%);
+
+}
+
+body > header > h1.header-title {
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
+    font-weight: normal;
+    padding-top: 6em;
+}
+
+body > header > h3.header-subtitle {
+    padding-top: 1em;
+    color: white;
+    font-weight: normal;
+    text-align: center;
+}
+
+body > header > img {
+    height: 330px;
+    margin: 40px 570px 0 570px;
+}
+
+body > main > div.features {
+    background: url("images/potato-background.png") no-repeat center;
+    background-size: cover;
+
+}
+
+body > main > div.features > h1 {
+
+    text-align: center;
+    padding-top: 6em;
+    font-weight: lighter;
+    text-transform: capitalize;
+    font-size: 40px;
+}
+
+body > main > div.features > h3 {
+
+    width: 540px;
+    margin: auto;
+    text-align: center;
+    padding-top: 11px;
+    font-weight: lighter;
+
+}
+
+body > main > div.features > img {
+    margin: 20px 530px 110px 530px;
+}
+
+body > main > div.buy-now > h1 {
+    text-align: center;
+    padding-top: 22px;
+    font-weight: lighter;
+    font-size: 43px;
+    padding-bottom: 35px;
+}
+
+body > main > div.buy-now > ul {
+    margin-left: 360px;
+}
+
+body > main > div.buy-now > ul > li {
+    display: inline-block;
+    width: 200px;
+    border-right: 1px solid black;
+    padding: 0 40px 0 40px;
+
+}
+
+body > main > div.buy-now > ul > li > h3 {
+    text-transform: capitalize;
+    font-weight: lighter;
+    font-size: 23px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+body > main > div.buy-now > ul > li > button {
+    margin: 0 50px 0 50px;
+    border: 2px solid greenyellow;
+    padding: 5px 20px 5px 20px;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: greenyellow;
+    background: white;
+    border-radius: 15px;
+
+}
+body > main > div.buy-now > ul > li > button:hover {
+   background:greenyellow;
+    color:white;
+
+}
+
+
+body > main > div.buy-now > ul > li > ul {
+    list-style-type: none;
+    text-align: center;
+
+}
+
+body > main > div.buy-now > ul > li > ul > li {
+
+    margin: 15px 0;
+}
+
+body > main > div.buy-now > ul > li > p {
+    text-align: center;
+    padding: 20px 0 30px 0;
+}
+
+.potato-img {
+    height: 100px;
+
+}
+
+body > main > div.buy-now > ul > li > img {
+
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+
+body > footer {
+    background:#867260;
+    padding:20px;
+    text-align:center;
+    color:white;
+}
