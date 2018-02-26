@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn');
+
+body{
+    margin:auto;
+    width:1200px;
+    color:#72aeb4;
+}
+article{
+    display:flex;
+}

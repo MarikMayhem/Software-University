@@ -1,0 +1,30 @@
+body{
+    margin:auto;
+    width:890px;
+    font-family:'Calibri Light', 'Verdana', sans-serif;
+    border-color:#a5b2b3;
+
+}
+main{
+    border:2px solid #a5b2b3;
+}
+img{
+    width:190px;
+}
+body > main > article > a   {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+article{
+
+    display:inline-block;
+
+}
+h2{
+    text-align:center;
+
+}
+
+p{
+    width:200px;
+}
