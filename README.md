@@ -32,6 +32,7 @@
 7. [CSS in Depth](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/7.CSS%20in%20depth) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/7.CSS%20in%20depth/Assignment)
 8. [CSS in Depth - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/8.CSS%20in%20depth%20-%20Exercise) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/8.CSS%20in%20depth%20-%20Exercise/Assignment)
 9. [CSS Formatting](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/9.CSS%20Formatting) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/9.CSS%20Formatting/Assignment)
+10. [CSS Formatting - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/10.CSS%20Formatting%20-%20Exercise) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Web%20Fundamentals%20-%20HTML5/10.CSS%20Formatting%20-%20Exercise/Assignment)
 
 ## Javascript - Front End
 
