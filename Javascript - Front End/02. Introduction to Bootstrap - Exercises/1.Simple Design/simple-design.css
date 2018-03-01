@@ -1,0 +1,26 @@
+
+body > div > div.container.text-center > button:nth-child(1){
+    background:none;
+    color:black;
+    border:none;
+}
+body > div > div.container.text-center > button:nth-child(2){
+    background:none;
+    color:black;
+    border-top:none;
+}
+body > div > div.container.text-center > button:nth-child(3){
+    background:none;
+    color:black;
+    border-right:none;
+}
+body > div > div.container.text-center > button:nth-child(4){
+    background:none;
+    color:black;
+    border-bottom:none;
+}
+body > div > div.container.text-center > button:nth-child(5){
+    background:none;
+    color:black;
+    border-left:none;
+}

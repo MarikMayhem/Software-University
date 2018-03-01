@@ -1,0 +1,28 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+.container {
+    width: 500px;
+}
+
+body > div > div.btn-group-wrap{
+    margin-top:30px;
+}
+body > div > p{
+    margin-top:20px;
+    padding-bottom:15px;
+}
+.btn-group-wrap {
+    text-align: center;
+}
+.input-group-addon{
+    border-left:none;
+    background:none
+}
+.input-group{
+    border-right:none;
+    margin-top:30px;
+    margin-bottom:20px;
+}
+.form-control{
+    border-right:none;
+}
