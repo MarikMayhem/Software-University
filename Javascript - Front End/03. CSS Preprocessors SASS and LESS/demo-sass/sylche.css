@@ -1,0 +1,16 @@
+body {
+  background: lightblue;
+  color: red;
+  font-size: 50px; }
+  body button {
+    border-radius: 15px;
+    background: deepskyblue;
+    color: purple;
+    height: 40px;
+    width: 120px; }
+    body button:hover {
+      background: white;
+      cursor: pointer;
+      border-radius: 0; }
+
+/*# sourceMappingURL=sylche.css.map */

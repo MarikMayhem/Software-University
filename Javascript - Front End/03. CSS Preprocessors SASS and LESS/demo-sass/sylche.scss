@@ -1,0 +1,31 @@
+$main-color: lightblue;
+$text-color: red;
+$text-size: 50px;
+
+@mixin pesho {
+  border-radius: 0;
+}
+
+@mixin button-style {
+  border-radius: 15px;
+  background: deepskyblue;
+  color: purple;
+  height: 40px;
+  width: 120px;
+  &:hover {
+    background: white;
+    cursor: pointer;
+    @include pesho;
+  }
+}
+
+body {
+  background: $main-color;
+  color: $text-color;
+  font-size: $text-size;
+  button {
+    @include button-style;
+  }
+}
+
+
