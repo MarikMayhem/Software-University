@@ -1,0 +1,67 @@
+$brown: brown;
+
+@mixin circleStyles() {
+  border-radius: 50%;
+  color: #fff;
+  margin: auto;
+  padding-top: 30px;
+}
+
+.darts {
+  height: 500px;
+  width: 500px;
+  position: relative;
+  margin: auto;
+}
+
+body {
+  p {
+    text-align: center;
+    font-size: 30px;
+  }
+  span {
+    display: block;
+    position:relative;
+    bottom:20px;
+    height:60px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 24px;
+  }
+  .brown {
+    @include circleStyles;
+    background-color: $brown;
+    width: 530px;
+    height: 500px;
+  }
+  .blue {
+    background-color: blue;
+    @include circleStyles;
+    width: 430px;
+    height: 400px;
+    margin-top: -45px;
+    .green {
+      background-color: green;
+      @include circleStyles;
+      width: 330px;
+      height: 300px;
+      margin-top: -45px;
+      .yellow {
+        background-color: yellow;
+        @include circleStyles;
+        width: 230px;
+        height: 200px;
+        margin-top: -45px;
+        .red {
+          background-color: red;
+          @include circleStyles;
+          width: 130px;
+          height: 100px;
+          margin-top: -45px;
+
+        }
+      }
+    }
+  }
+}
+
