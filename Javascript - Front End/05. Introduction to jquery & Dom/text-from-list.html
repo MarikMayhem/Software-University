@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Text From List</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<ul id="items">
+    <li>first item</li>
+    <li>second item</li>
+    <li>third item</li>
+</ul>
+<button onclick="extractText()">Extract Text</button>
+<div id="result"></div>
+<script>
+    function extractText() {
+        let rezultat=[];
+        $('#items').find('li').each((index, element)=>rezultat.push(element.textContent));
+        $('#result').text(rezultat.join(', '));
+
+    }
+</script>
+</body>
+</html>
