@@ -40,7 +40,7 @@
 2. [Introduction to Bootstrap - Exercises](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/02.%20Introduction%20to%20Bootstrap%20-%20Exercises) - [(Asignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/02.%20Introduction%20to%20Bootstrap%20-%20Exercises/Assignment)
 3. [CSS Preprocessors SASS and LESS](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/03.%20CSS%20Preprocessors%20SASS%20and%20LESS)
 4. [CSS Preprocessors SASS and LESS - Exercises](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/04.%20CSS%20Preprocessors%20SASS%20and%20LESS%20-%20Exercises) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/04.%20CSS%20Preprocessors%20SASS%20and%20LESS%20-%20Exercises/Assignment)
-
+5. [Introduction to jquery & Dom](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/05.%20Introduction%20to%20jquery%20%26%20Dom) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/05.%20Introduction%20to%20jquery%20%26%20Dom/Assignment)
 
 <h2 align="left"> JS - Core </h2>
 
