@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Toastr Examples</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <link href="CodeSeven-toastr-998959b/toastr.css" rel="stylesheet"/>
+    <script src="CodeSeven-toastr-998959b/toastr.js"></script>
+    <link rel="stylesheet" href="toastr.css">
+
+</head>
+<body>
+<input type="button" value="Error" id="error"/>
+<input type="button" value="Info" id="info"/>
+<input type="button" value="Warning" id="warning"/>
+<input type="button" value="Success" id="success"/>
+<br><br><br><br>
+See official example: <a href='http://codeseven.github.io/toastr/demo.html' target='blank'>Here</a>
+<script>
+    $(function () {
+        $('#error').click(function () {
+            // make it not dissappear
+            toastr.error("Oh no you made a mistake :/", "You got an error", {
+                "closeButton": false,
+                "debug": false,
+                "newestOnTop": false,
+                "progressBar": true,
+                "positionClass": "toast-top-center",
+                "preventDuplicates": false,
+                "onclick": null,
+                "showDuration": "5",
+                "hideDuration": "1000",
+                "timeOut": "5000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut",
+            });
+        });
+        $('#info').click(function () {
+            // title is optional
+            toastr.info("You clicked the info button", "You got an Info", {
+                "closeButton": false,
+                "debug": false,
+                "newestOnTop": false,
+                "progressBar": true,
+                "positionClass": "toast-bottom-center",
+                "preventDuplicates": false,
+                "onclick": null,
+                "showDuration": "5",
+                "hideDuration": "1000",
+                "timeOut": "5000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut",
+            });
+        });
+        $('#warning').click(function () {
+            toastr.warning("You clicked the warning button", "You got an Warning",{
+                "closeButton": false,
+                "debug": false,
+                "newestOnTop": false,
+                "progressBar": true,
+                "positionClass": "toast-bottom-left",
+                "preventDuplicates": false,
+                "onclick": null,
+                "showDuration": "5",
+                "hideDuration": "1000",
+                "timeOut": "5000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut",
+            });
+        });
+        $('#success').click(function () {
+            toastr.success("YYEESSSSSSS");
+        });
+    });
+
+</script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+#error {
+  background-color: Red;
+  color: white; }
+
+#info {
+  background-color: blue;
+  color: white; }
+
+#warning {
+  background-color: orange;
+  color: white; }
+
+#success {
+  background-color: greenyellow;
+  color: white; }
+
+/*# sourceMappingURL=toastr.css.map */
