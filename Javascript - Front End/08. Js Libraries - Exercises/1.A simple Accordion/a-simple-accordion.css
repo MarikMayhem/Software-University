@@ -1,0 +1,19 @@
+#accordion > div{
+    width:450px;
+    margin:auto;
+    margin-bottom:7px;
+}
+h1{
+    text-align:center;
+    margin-right:130px;
+    color:#993333;
+}
+#accordion div div.panel-heading h4 > a{
+    color:white;
+}
+#accordion  div > div.panel-heading{
+    background-color:#733838;
+}
+p{
+    color:#993333;
+}

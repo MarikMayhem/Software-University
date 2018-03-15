@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Slick Slider</title>
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.js"></script>
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.3.15/slick.css">
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.3.15/slick.min.js"></script>
+
+    <style>
+        .slider {
+            width: 650px;
+            margin: 0 auto;
+        }
+
+        .slick-prev:before,
+        .slick-next:before {
+            color: black;
+        }
+
+        img {
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+
+</head>
+<body>
+
+
+<div class="slider">
+    <div>
+        <img src="http://www.petmd.com/sites/default/files/scared-kitten-shutterstock_191443322.jpg"/>
+    </div>
+    <div>
+        <img src="https://media.mnn.com/assets/images/2016/11/cat-with-big-eyes-gimo.jpg.653x0_q80_crop-smart.jpg"/>
+    </div>
+    <div>
+        <img src="https://img.buzzfeed.com/buzzfeed-static/static/2015-03/3/16/enhanced/webdr09/enhanced-7711-1425417143-1.jpg?downsize=715:*&output-format=auto&output-quality=auto"/>
+    </div>
+    <div>
+        <img src="https://i.ytimg.com/vi/oH_GHvcF9VM/hqdefault.jpg"/>
+    </div>
+    <div>
+        <img src="http://cdn.pcwallart.com/images/cute-dogs-wallpaper-7.jpg"/>
+    </div>
+    <div>
+        <img src="http://www.dailydogmemes.com/smiling-cute-dogs.jpg"/>
+    </div>
+    <div>
+        <img src="https://static.boredpanda.com/blog/wp-content/uuuploads/cute-baby-animals/cute-baby-animals-10.jpg"/>
+    </div>
+    <div>
+        <img src="https://static.boredpanda.com/blog/wp-content/uploads/2016/10/cute-animals-wearing-tiny-sweaters-23-57ff6fe79105f__605.jpg"/>
+    </div>
+    <div>
+        <img src="https://pbs.twimg.com/profile_images/551581647980994561/pE0zysXZ.jpeg"/>
+    </div>
+</div>
+
+<script>
+    $(window).load(function () {
+        $('.slider').slick({
+            slidesToShow: 3,
+            slidesToScroll: 3,
+            dots: true,
+            infinite: true,
+            cssEase: 'linear',
+            arrows: true
+        });
+    });//]]></script>
+
+</body>
+</html>
