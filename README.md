@@ -44,7 +44,6 @@
 6. [Introduction to jquery & Dom - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/06.Introduction%20to%20jquery%20%26%20Dom%20-%20Exercises) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/06.Introduction%20to%20jquery%20%26%20Dom%20-%20Exercises/Assignment)
 7. [Js Libraries](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/07.Js%20Libraries)
 8. [Js Libraries - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/08.%20Js%20Libraries%20-%20Exercises) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/08.%20Js%20Libraries%20-%20Exercises/Assignment)
-
 9. [Introduction to AJAX - Exercises](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/09.Introduction%20to%20AJAX%20-%20Exercises) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/09.Introduction%20to%20AJAX%20-%20Exercises/Assignment)
 <h2 align="left"> JS - Core </h2>
 
