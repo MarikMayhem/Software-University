@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bus Schedule</title>
+    <style>
+        #schedule { text-align: center; width: 400px; }
+        input { width: 120px; }
+        #info { background-color:aquamarine; border:1px solid black; margin:0.25em; }
+        .info { font-size: 1.5em; padding: 0.25em; }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="schedule">
+    <div id="info"><span class="info">Not Connected</span></div>
+    <div id="controls">
+        <input id="depart" value="Depart" type="button" onclick="changeStatus('depart')">
+        <input id="arrive" value="Arrive" type="button" onclick="changeStatus('arrive')" disabled="true">
+    </div>
+</div>
+<script>
+
+
+
+    let nextId = 'depot';
+
+    function changeStatus(type){
+        $.ajax('http://api.steampowered.com/ISteamUser/GetFriendList/v0001/?key=484049C6C596246E0EEA4478F779340F&steamid=76561198018611790&relationship=friend', {
+            method: 'GET',
+
+            success: function (response) {
+                console.log(response);
+
+            }
+
+        });
+    }
+
+</script>
+</body>
+</html>
