@@ -46,6 +46,8 @@
 8. [Js Libraries - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/08.%20Js%20Libraries%20-%20Exercises) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/08.%20Js%20Libraries%20-%20Exercises/Assignment)
 9. [Introduction to AJAX - Exercises](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/09.Introduction%20to%20AJAX%20-%20Exercises) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/09.Introduction%20to%20AJAX%20-%20Exercises/Assignment)
 10. [Exam Preparation I](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/10.%20Exam%20Preparation%20I) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/10.%20Exam%20Preparation%20I/Assignment)
+11. [Exam Preparation II](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/11.Exam%20Preparation%20II) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20-%20Front%20End/11.Exam%20Preparation%20II/Assignment)
+
 
 <h2 align="left"> JS - Core </h2>
 
