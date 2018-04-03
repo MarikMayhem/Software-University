@@ -54,6 +54,8 @@
 
 ## Javascript - Fundamentals
 
+1. [Javascript Fundamentals](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/1.Javascript%20Syntax) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/1.Javascript%20Syntax/Assignment)
+
 ## Javascript - Advanced
 
 ## Javascript - Apps
