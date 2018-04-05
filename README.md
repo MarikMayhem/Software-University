@@ -54,7 +54,8 @@
 
 ## Javascript - Fundamentals
 
-1. [Javascript Fundamentals](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/1.Javascript%20Syntax) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/1.Javascript%20Syntax/Assignment)
+1. [Javascript Syntax](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/1.Javascript%20Syntax) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/1.Javascript%20Syntax/Assignment)
+2. [Operators And Logic Flow](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/2.Operators%20And%20Logic%20Flow) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/2.Operators%20And%20Logic%20Flow/Assignment)
 
 ## Javascript - Advanced
 
