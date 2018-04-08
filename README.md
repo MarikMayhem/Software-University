@@ -56,7 +56,7 @@
 
 1. [Javascript Syntax](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/1.Javascript%20Syntax) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/1.Javascript%20Syntax/Assignment)
 2. [Operators And Logic Flow](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/2.Operators%20And%20Logic%20Flow) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/2.Operators%20And%20Logic%20Flow/Assignment)
-2. [3.Syntax Operators and logic flow - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/3.Syntax%20Operators%20and%20logic%20flow%20-%20Exercise) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/3.Syntax%20Operators%20and%20logic%20flow%20-%20Exercise/Assignment)
+3. [Syntax Operators and logic flow - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/3.Syntax%20Operators%20and%20logic%20flow%20-%20Exercise) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/3.Syntax%20Operators%20and%20logic%20flow%20-%20Exercise/Assignment)
 
 ## Javascript - Advanced
 
