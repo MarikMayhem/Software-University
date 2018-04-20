@@ -60,6 +60,8 @@
 4. [Functions](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/4.Functions) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/4.Functions/Assignment)
 5. [Functions - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/5.Functions%20-%20Exercise) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/5.Functions%20-%20Exercise/Assignment)
 6. [Arrays and matrices](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/6%2CArrays%20And%20Matrices) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/6%2CArrays%20And%20Matrices/Assignment)
+6. [Arrays and matrices - Exercise]() - [(Assignment)]()
+
 
 
 ## Javascript - Advanced
