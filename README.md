@@ -61,6 +61,8 @@
 5. [Functions - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/5.Functions%20-%20Exercise) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/5.Functions%20-%20Exercise/Assignment)
 6. [Arrays and matrices](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/6%2CArrays%20And%20Matrices) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/6%2CArrays%20And%20Matrices/Assignment)
 7. [Arrays and matrices - Exercise](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/7.Arrays%20And%20Matrices%20-%20Exercise) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/7.Arrays%20And%20Matrices%20-%20Exercise/Assignment)
+8. [Strings and Regex](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/8.String%20And%20Regex) - [(Assignment)](https://github.com/MarikMayhem/Software-University/tree/master/Javascript%20Fundamentals/8.String%20And%20Regex/Assignment)
+
 
 
 
